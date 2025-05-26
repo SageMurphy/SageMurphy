@@ -1,5 +1,5 @@
 Hi 👋, I'm Abhishek Shrimali
-## 💻 Aspiring Data Analyst
+## 💻 Aspiring Data Analyst | 🚀 AI/ML Engineer | 📊 Data Scientist 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SageMurphy&color=blue&style=flat-square)
 
