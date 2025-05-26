@@ -12,7 +12,7 @@ Hi 👋, I'm Abhishek Shrimali
 
 
 ### Connect with me:
-[<img src="LINK_TO_LINKEDIN_ICON_IMAGE" width="22px"> LinkedIn](https://www.linkedin.com/in/abhishek-s-a71511346/) 
+[LinkedIn](https://www.linkedin.com/in/abhishek-s-a71511346/) 
 
 
   <p align="center">
