@@ -15,10 +15,6 @@ Hi 👋, I'm Abhishek Shrimali
 [LinkedIn](https://www.linkedin.com/in/abhishek-s-a71511346/) 
 
 
-  <p align="center">
-  <img src="URL_TO_YOUR_IMAGE_OR_GIF" alt="coding illustration" width="400"/>
-</p>
-
 ### My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SageMurphy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
