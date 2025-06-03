@@ -1,10 +1,7 @@
 Hi 👋, I'm Abhishek Shrimali
-## 💻 Aspiring Data Analyst | 🚀 AI/ML Engineer | 📊 Data Scientist 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SageMurphy&color=blue&style=flat-square)
 
-
-🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me: **[abhishekshrimali8955@gmail.com]**
 - 😄 Pronouns: **He/Him**
