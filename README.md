@@ -5,7 +5,7 @@ Hi 👋, I'm Abhishek Shrimali
 
 - 📫 How to reach me: **[abhishekshrimali8955@gmail.com]**
 - 😄 Pronouns: **He/Him**
-- 📂 All of my projects are available at [https://github.com/SageMurphy?tab=repositories]
+- 📂 All of my projects are available at [https://github.com/SageMurphy?tab=repositories], [https://huggingface.co/AbhishekShrimali]
 
 
 ### Connect with me:
